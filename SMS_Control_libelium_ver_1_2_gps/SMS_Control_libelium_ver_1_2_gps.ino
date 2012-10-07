@@ -12,7 +12,6 @@ String inData = String(maxLength);
 char data[maxLength];
 String number = String(12);
 char c_number[12];
-//char phone_number[]="+79222620280";
 int x;
 int onModulePin = 2;
 int led = 13;
